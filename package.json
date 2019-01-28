@@ -1,0 +1,27 @@
+{
+  "name": "productsapp",
+  "version": "1.0.0",
+  "description": "productsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meayushraj/Projects-Node-ProductsApp.git"
+  },
+  "keywords": [
+    "productsapp"
+  ],
+  "author": "ayushraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meayushraj/Projects-Node-ProductsApp/issues"
+  },
+  "homepage": "https://github.com/meayushraj/Projects-Node-ProductsApp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.7"
+  }
+}
